@@ -14,7 +14,7 @@ const simulation = d3.forceSimulation()
     .force("center", d3.forceCenter(width / 2, height / 2));
 
 // Load the JSON data
-d3.json("/mnt/data/diseases.json").then(data => {
+d3.json("diseases.json").then(data => {
     // Create the links
     const link = svg.append("g")
         .attr("class", "links")
