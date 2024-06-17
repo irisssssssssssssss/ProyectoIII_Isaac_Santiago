@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
-<title>Grafico Diseases</title>
+<title>Grafico Escuelas</title>
 <style>
     .node {
-        fill: #c70040;
+        fill: #ffdf2a;
         stroke: #000000;
         stroke-width: 1px;
         cursor: pointer; /* Add cursor pointer for clickable nodes */
@@ -28,7 +28,7 @@
         var height = 1080;
 
         // Load data from diseases.csv
-        d3.csv("diseases.csv").then(function(data) {
+        d3.csv("school.csv").then(function(data) {
             // Group nodes by type2
             var nodesByType2 = d3.group(data, d => d.type2);
 

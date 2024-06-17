@@ -1,0 +1,1420 @@
+key,type,type2,label,size,color
+55,disease,"Ear,Nose,Throat",Deafness,100,#66cccc
+47,disease,Cancer,Leukemia,90.56481,#cc6600
+114,disease,Cancer,Colon cancer,83.15607,#cc6600
+45,disease,Ophthamological,Retinitis pigmentosa,73.06316,#993399
+87,disease,Endocrine,Diabetes mellitus,65.42821,#ffcc00
+54,disease,Cardiovascular,Cardiomyopathy,60.344677,#0099ff
+81,disease,Neurological,Mental retardation,57.81241,#ee4444
+48,disease,Hematological,Blood group,55.289974,#99cc00
+70,disease,Nutritional,Obesity,50.285717,#ff0099
+137,disease,Cancer,Breast cancer,45.35532,#cc6600
+223,disease,Muscular,Muscular dystrophy,42.92585,#ff572d
+390,disease,Neurological,Charcot-Marie-Tooth disease,42.92585,#ee4444
+220,disease,Neurological,Epilepsy,40.5249,#ee4444
+325,disease,Ophthamological,Cataract,35.824245,#993399
+68,disease,Respiratory,Asthma,31.288366,#ff9999
+208,disease,Immunological,Complementary component deficiency,31.288366,#339966
+213,disease,Neurological,Spinocereballar ataxia,31.288366,#ee4444
+30,disease,Neurological,Alzheimer disease,29.095102,#ee4444
+65,disease,Cardiovascular,Hypertension,29.095102,#0099ff
+139,disease,Cancer,Prostate cancer,29.095102,#cc6600
+185,disease,Neurological,Leigh syndrome,29.095102,#ee4444
+202,disease,Multiple,Fanconi anemia,26.959711,#c0bb56
+302,disease,Dermatological,Epidermolysis bullosa,26.959711,#ff9933
+364,disease,Neurological,Parkinson disease,26.959711,#ee4444
+634,disease,Cancer,Thyroid carcinoma,26.959711,#cc6600
+53,disease,Muscular,Myopathy,24.889282,#ff572d
+86,disease,Hematological,Hemolytic anemia,24.889282,#99cc00
+99,disease,Cardiovascular,Myocardial infarction,24.889282,#0099ff
+117,disease,Cancer,Gastric cancer,24.889282,#cc6600
+155,disease,Cancer,Lymphoma,24.889282,#cc6600
+41,disease,Hematological,Anemia,22.891994,#99cc00
+59,disease,Cancer,Pancreatic cancer,22.891994,#cc6600
+130,disease,Psychiatric,Schizophrenia,22.891994,#6699cc
+239,disease,Hematological,Thrombophilia,22.891994,#99cc00
+285,disease,Connective tissue disorder,Ehlers-Danlos syndrome,22.891994,#ffff80
+640,disease,Neurological,Spastic ataxia/paraplegia,22.891994,#ee4444
+63,disease,Immunological,Severe combined immunodeciency,20.97745,#339966
+125,disease,Metabolic,Hypercholesterolemia,20.97745,#b3ecf7
+197,disease,Cancer,Ovarian cancer,20.97745,#cc6600
+224,disease,Cancer,Hepatic adenoma,20.97745,#cc6600
+236,disease,Connective tissue disorder,Rheumatoid arthritis,20.97745,#ffff80
+414,disease,Dermatological,Ectodermal dysplasia,20.97745,#ff9933
+420,disease,Neurological,Neuropathy,20.97745,#ee4444
+448,disease,Hematological,Factor x deficiency,20.97745,#99cc00
+822,disease,Multiple,Usher syndrome,20.97745,#c0bb56
+42,disease,Ophthamological,Cone dystrophy,19.15717,#993399
+110,disease,Cardiovascular,Long QT syndrome,19.15717,#0099ff
+122,disease,Ophthamological,Corneal dystrophy,19.15717,#993399
+140,disease,Muscular,Spinal muscular atrophy,19.15717,#ff572d
+146,disease,Dermatological,Ichthyosis,19.15717,#ff9933
+186,disease,Multiple,Mitochondrial complex deciency,19.15717,#c0bb56
+266,disease,Muscular,Myasthenic syndrome,19.15717,#ff572d
+324,disease,Ophthamological,Leber congenital amaurosis,19.15717,#993399
+332,disease,Endocrine,Hypothyroidism,19.15717,#ffcc00
+411,disease,Gastrointestinal,Hirschsprung disease,19.15717,#cc9900
+775,disease,Cancer,Renal cell carcinoma,19.15717,#cc6600
+37,disease,Cardiovascular,Coronary artery disease,17.445396,#0099ff
+120,disease,Neurological,Amyloidosis,17.445396,#ee4444
+222,disease,Bone,Osteoporosis,17.445396,#c0bb56
+306,disease,Bone,Epiphyseal dysplasia,17.445396,#c0bb56
+367,disease,Neurological,Amyotrophic lateral sclerosis,17.445396,#ee4444
+541,disease,Endocrine,MODY,17.445396,#ffcc00
+751,disease,Neurological,Dementia,17.445396,#ee4444
+786,disease,Endocrine,Pseudohypoaldosteronism,17.445396,#ffcc00
+44,disease,Ophthamological,Macular dystrophy,15.860395,#993399
+74,disease,Skeletal,Spondyloepiphyseal dysplasia,15.860395,#ffffcc
+109,disease,Hematological,Spherocytosis,15.860395,#99cc00
+164,disease,Renal,Renal tubular acidosis,15.860395,#cc0099
+187,disease,Respiratory,Central hypoventilation syndrome,15.860395,#ff9999
+200,disease,Cancer,Melanoma,15.860395,#cc6600
+215,disease,Ophthamological,Night blindness,15.860395,#993399
+219,disease,Neurological,Ataxia,15.860395,#ee4444
+245,disease,Immunological,Malaria,15.860395,#339966
+327,disease,Cardiovascular,Atrial fibrillation,15.860395,#0099ff
+384,disease,Cancer,Glioblastoma,15.860395,#cc6600
+607,disease,Ophthamological,Macular degeneration,15.860395,#993399
+661,disease,Immunological,Atopy,15.860395,#339966
+736,disease,Metabolic,Lipodystrophy,15.860395,#b3ecf7
+778,disease,Immunological,Bare lymphocyte syndrome,15.860395,#339966
+940,disease,Developmental,Holoprosencephaly,15.860395,#b84be7
+80,disease,Renal,Renal tubular dysgenesis,14.426924,#cc0099
+119,disease,Immunological,Autoimmune disease,14.426924,#339966
+121,disease,Metabolic,Apolipoprotein deficiency,14.426924,#b3ecf7
+123,disease,Metabolic,Hypertriglyceridemia,14.426924,#b3ecf7
+133,disease,Immunological,Systemic lupus erythematosus,14.426924,#339966
+158,disease,Neurological,Migraine,14.426924,#ee4444
+180,disease,Metabolic,Maple syrup urine disease,14.426924,#b3ecf7
+199,disease,Cancer,Adenocarcinoma,14.426924,#cc6600
+203,disease,Cancer,Wilms tumor,14.426924,#cc6600
+235,disease,Hematological,Platelet defect/deficiency,14.426924,#99cc00
+237,disease,Cancer,Myelogenous leukemia,14.426924,#cc6600
+248,disease,Cancer,Endometrial carcinoma,14.426924,#cc6600
+277,disease,Bone,Osteopetrosis,14.426924,#c0bb56
+280,disease,Immunological,HIV,14.426924,#339966
+290,disease,Connective tissue disorder,Osteoarthritis,14.426924,#ffff80
+314,disease,Cancer,Lung cancer,14.426924,#cc6600
+340,disease,Ophthamological,Glaucoma,14.426924,#993399
+369,disease,Neurological,Lissencephaly,14.426924,#ee4444
+401,disease,Dermatological,Keratosis palmoplantaria striata,14.426924,#ff9933
+419,disease,Multiple,Dejerine-Sottas disease,14.426924,#c0bb56
+423,disease,Hematological,Neutropenia,14.426924,#99cc00
+429,disease,Hematological,Elliptocytosis,14.426924,#99cc00
+441,disease,Ophthamological,Anterior segment anomalies and cataract,14.426924,#993399
+447,disease,Hematological,Thrombocytopenia,14.426924,#99cc00
+474,disease,Cancer,Bladder cancer,14.426924,#cc6600
+497,disease,Cancer,Rhabdomyosarcoma,14.426924,#cc6600
+570,disease,Psychiatric,Autism,14.426924,#6699cc
+602,disease,Neurological,Huntington disease,14.426924,#ee4444
+782,disease,Multiple,Waardenburg syndrome,14.426924,#c0bb56
+790,disease,Cancer,Meningioma,14.426924,#cc6600
+851,disease,Ophthamological,Retinal cone dsytrophy,14.426924,#993399
+938,disease,Cancer,Basal cell carcinoma,14.426924,#cc6600
+968,disease,Cancer,Esophageal cancer,14.426924,#cc6600
+43,disease,Ophthamological,Fundus albipunctatus,13.181497,#993399
+78,disease,Cardiovascular,Tetralogy of Fallot,13.181497,#0099ff
+79,disease,Cardiovascular,Preeclampsia,13.181497,#0099ff
+101,disease,Dermatological,Ichthyosiform erythroderma,13.181497,#ff9933
+113,disease,Cancer,Adenomas,13.181497,#cc6600
+118,disease,Cancer,Turcot syndrome,13.181497,#cc6600
+132,disease,Cancer,Squamous cell carcinoma,13.181497,#cc6600
+165,disease,Connective tissue disorder,Cutis laxa,13.181497,#ffff80
+177,disease,Gastrointestinal,Hypercholanemia,13.181497,#cc9900
+189,disease,Psychiatric,Obsessive-compulsive disorder,13.181497,#6699cc
+201,disease,Cancer,Nonsmall cell lung cancer,13.181497,#cc6600
+216,disease,Renal,Hypokalemic periodic paralysis,13.181497,#cc0099
+226,disease,Cardiovascular,Ventricular tachycardia,13.181497,#0099ff
+227,disease,Endocrine,Hyperparathyroidism,13.181497,#ffcc00
+270,disease,Psychiatric,Nicotine addiction,13.181497,#6699cc
+282,disease,Ophthamological,Achromatopsia,13.181497,#993399
+292,disease,Multiple,Stickler syndrome,13.181497,#c0bb56
+328,disease,Cardiovascular,Atrioventricular block,13.181497,#0099ff
+402,disease,Cardiovascular,Arrhythmogenic right ventricular dysplasia,13.181497,#0099ff
+464,disease,Multiple,Walker-Warburg syndrome,13.181497,#c0bb56
+467,disease,Hematological,Dysfibrinogenemia,13.181497,#99cc00
+527,disease,Neurological,Myoclonic epilepsy,13.181497,#ee4444
+560,disease,Dermatological,Erythrokeratoderma,13.181497,#ff9933
+574,disease,Cancer,Pituitary ACTH-secreting adenoma,13.181497,#cc6600
+671,disease,Muscular,Myelodysplastic syndrome,13.181497,#ff572d
+703,disease,Dermatological,Epidermolytic hyperkeratosis,13.181497,#ff9933
+742,disease,Cancer,Lipoma,13.181497,#cc6600
+744,disease,Ophthamological,Exudative vitreoretinopathy,13.181497,#993399
+795,disease,Cancer,Neurofibromatosis,13.181497,#cc6600
+796,disease,Developmental,Cleft palate,13.181497,#b84be7
+856,disease,Dermatological,Albinism,13.181497,#ff9933
+880,disease,Metabolic,Pyruvate dehydrogenase deciency,13.181497,#b3ecf7
+919,disease,Metabolic,Insulin resistance,13.181497,#b3ecf7
+953,disease,Immunological,Omenn syndrome,13.181497,#339966
+984,disease,Cancer,Paragangliomas,13.181497,#cc6600
+985,disease,Cancer,Pheochromocytoma,13.181497,#cc6600
+36,disease,Neurological,Cerebral amyloid angiopathy,12.187026,#ee4444
+38,disease,Metabolic,HDL cholesterol level QTL,12.187026,#b3ecf7
+46,disease,Ophthamological,Stargardt disease,12.187026,#993399
+100,disease,Cardiovascular,Stroke,12.187026,#0099ff
+126,disease,Metabolic,Abetalipoproteinemia,12.187026,#b3ecf7
+128,disease,Metabolic,Hyperlipoproteinemia,12.187026,#b3ecf7
+131,disease,Metabolic,Urolithiasise,12.187026,#b3ecf7
+154,disease,Immunological,Ataxia-telangiectasia,12.187026,#339966
+156,disease,Cancer,T-cell lymphoblastic leukemia,12.187026,#cc6600
+181,disease,Cancer,von Hippel-Lindau syndrome,12.187026,#cc6600
+191,disease,Cancer,Cowden disease,12.187026,#cc6600
+192,disease,Cancer,Polyposis,12.187026,#cc6600
+209,disease,Immunological,Combined immunodeficiency,12.187026,#339966
+210,disease,Neurological,Cerebellar ataxia,12.187026,#ee4444
+211,disease,Neurological,Episodic ataxia,12.187026,#ee4444
+217,disease,Neurological,Malignant hyperthermia susceptibility,12.187026,#ee4444
+238,disease,Metabolic,Homocystinuria,12.187026,#b3ecf7
+272,disease,Muscular,Myotonia congenita,12.187026,#ff572d
+286,disease,Bone,Osteogenesis imperfecta,12.187026,#c0bb56
+287,disease,Connective tissue disorder,Marfan syndrome,12.187026,#ffff80
+307,disease,Neurological,Intervertebral disc disease,12.187026,#ee4444
+322,disease,Metabolic,"CPT deficiency, hepatic",12.187026,#b3ecf7
+323,disease,Multiple,Rubenstein-Taybi syndrome,12.187026,#c0bb56
+331,disease,Endocrine,Graves disease,12.187026,#ffcc00
+341,disease,Developmental,Peters anomaly,12.187026,#b84be7
+370,disease,Neurological,Subcortical laminar heterotopia,12.187026,#ee4444
+385,disease,Muscular,Becker muscular dystrophy,12.187026,#ff572d
+408,disease,Connective tissue disorder,Atelosteogenesis,12.187026,#ffff80
+417,disease,Multiple,Waardenburg-Shah syndrome,12.187026,#c0bb56
+426,disease,Muscular,Emery-Dreifuss muscular dystrophy,12.187026,#ff572d
+446,disease,Hematological,Hemorrhagic diathesis,12.187026,#99cc00
+454,disease,Ophthamological,Ectopia,12.187026,#993399
+457,disease,Connective tissue disorder,Weill-Marchesani syndrome,12.187026,#ffff80
+463,disease,Immunological,Viral infection,12.187026,#339966
+466,disease,Hematological,Afibrinogenemia,12.187026,#99cc00
+470,disease,Skeletal,Jackson-Weiss syndrome,12.187026,#ffffcc
+471,disease,Multiple,Kallmann syndrome,12.187026,#c0bb56
+472,disease,Skeletal,Pfeiffer syndrome,12.187026,#ffffcc
+476,disease,Skeletal,Crouzon syndrome,12.187026,#ffffcc
+483,disease,Skeletal,Craniosynostosis,12.187026,#ffffcc
+484,disease,Developmental,Saethre-Chotzen syndrome,12.187026,#b84be7
+485,disease,Cancer,Cancer susceptibility,12.187026,#cc6600
+491,disease,Ophthamological,Iridogoniodysgenesis,12.187026,#993399
+493,disease,Multiple,Rieger syndrome,12.187026,#c0bb56
+526,disease,Psychiatric,Insomnia,12.187026,#6699cc
+545,disease,Multiple,Alexander disease,12.187026,#c0bb56
+550,disease,Endocrine,Growth hormone,12.187026,#ffcc00
+559,disease,Multiple,Vohwinkel syndrome,12.187026,#c0bb56
+575,disease,Endocrine,Acromegaly,12.187026,#ffcc00
+616,disease,Neurological,Creutzfeldt-Jakob disease,12.187026,#ee4444
+681,disease,Hematological,Polycythemia,12.187026,#99cc00
+682,disease,Hematological,Thrombocythemia,12.187026,#99cc00
+685,disease,Multiple,Jervell and Lange-Nielsen syndrome,12.187026,#c0bb56
+691,disease,Cancer,Gastrointestinal stromal tumor,12.187026,#cc6600
+692,disease,Cancer,Germ cell tumor,12.187026,#cc6600
+765,disease,Developmental,Angelman syndrome,12.187026,#b84be7
+767,disease,Neurological,Rett syndrome,12.187026,#ee4444
+772,disease,Cancer,Multiple endocrine neoplasia,12.187026,#cc6600
+773,disease,Cancer,Parathyroid adenoma,12.187026,#cc6600
+779,disease,Neurological,Multiple sclerosis,12.187026,#ee4444
+784,disease,Cancer,Cafe-au-lait spots,12.187026,#cc6600
+785,disease,Cancer,Muir-Torre syndrome,12.187026,#cc6600
+793,disease,Multiple,Roussy-Levy syndrome,12.187026,#c0bb56
+797,disease,Skeletal,Hypodontia,12.187026,#ffffcc
+799,disease,Skeletal,Parietal foramina,12.187026,#ffffcc
+814,disease,Muscular,Central core disease,12.187026,#ff572d
+815,disease,Multiple,Carney complex,12.187026,#c0bb56
+838,disease,Cancer,Neuroblastoma,12.187026,#cc6600
+853,disease,Cancer,Medullary thyroid carcinoma,12.187026,#cc6600
+858,disease,Ophthamological,Optic atrophy,12.187026,#993399
+873,disease,Ophthamological,"Coloboma, ocular",12.187026,#993399
+930,disease,Metabolic,Hyperprolinemia,12.187026,#b3ecf7
+963,disease,Hematological,Rh-negative blood type,12.187026,#99cc00
+982,disease,Renal,Liddle syndrome,12.187026,#cc0099
+1048,disease,Endocrine,Goiter,12.187026,#ffcc00
+1050,disease,Connective tissue disorder,Loeys-Dietz syndrome,12.187026,#ffff80
+1053,disease,Endocrine,Thyroid hormone resistance,12.187026,#ffcc00
+1061,disease,Immunological,Sepsis,12.187026,#339966
+1067,disease,Cancer,Li-Fraumeni syndrome,12.187026,#cc6600
+1070,disease,Cancer,Osteosarcoma,12.187026,#cc6600
+1145,disease,Cancer,Medulloblastoma,12.187026,#cc6600
+1245,disease,Psychiatric,Asperger syndrome,12.187026,#6699cc
+39,disease,Metabolic,Tangier disease,11.619047,#b3ecf7
+62,disease,Immunological,Adenosine deaminase deficiency,11.619047,#339966
+69,disease,Unclassified,"Beta-2-adrenoreceptor agonist, reduced response to",11.619047,#999999
+76,disease,Nutritional,"Leanness, inherited",11.619047,#ff0099
+77,disease,Multiple,Alagille syndrome,11.619047,#c0bb56
+98,disease,Cardiovascular,Atherosclerosis,11.619047,#0099ff
+112,disease,Cancer,"Adenoma, periampullary",11.619047,#cc6600
+115,disease,Cancer,"Desmoid disease, hereditary",11.619047,#cc6600
+116,disease,Cancer,Gardner syndrome,11.619047,#cc6600
+124,disease,Metabolic,Hypoalphalipoproteinemia,11.619047,#b3ecf7
+127,disease,Metabolic,Hypobetalipoproteinemia,11.619047,#b3ecf7
+129,disease,Hematological,Sea-blue histiocyte disease,11.619047,#99cc00
+134,disease,Unclassified,Aquaporin-1 deficiency,11.619047,#999999
+136,disease,Endocrine,Androgen insensitivity,11.619047,#ffcc00
+138,disease,Endocrine,Perineal hypospadias,11.619047,#ffcc00
+147,disease,Metabolic,Placental steroid sulfatase deciency,11.619047,#b3ecf7
+157,disease,Neurological,Alternating hemiplegia of childhood,11.619047,#ee4444
+166,disease,Neurological,Menkes disease,11.619047,#ee4444
+167,disease,Multiple,Occipital horn syndrome,11.619047,#c0bb56
+184,disease,Metabolic,GRACILE syndrome,11.619047,#b3ecf7
+188,disease,Neurological,Memory impairment,11.619047,#ee4444
+198,disease,Cancer,Papillary serous carcinoma of the peritoneum,11.619047,#cc6600
+212,disease,Neurological,"Hemiplegic migraine, familial",11.619047,#ee4444
+218,disease,Endocrine,Thyrotoxic periodic paralysis,11.619047,#ffcc00
+225,disease,Cancer,Non-Hodgkin lymphoma,11.619047,#cc6600
+228,disease,Endocrine,Hypocalcemia,11.619047,#ffcc00
+229,disease,Endocrine,Hypocalciuric hypercalcemia,11.619047,#ffcc00
+231,disease,Metabolic,Creatine phosphokinase,11.619047,#b3ecf7
+232,disease,Muscular,Rippling muscle disease,11.619047,#ff572d
+249,disease,Immunological,Listeria monocytogenes,11.619047,#339966
+252,disease,Cancer,Li Fraumeni syndrome,11.619047,#cc6600
+253,disease,Cancer,Orolaryngeal cancer,11.619047,#cc6600
+283,disease,Connective tissue disorder,Caffey disease,11.619047,#ffff80
+284,disease,Connective tissue disorder,Dissection of cervical arteries,11.619047,#ffff80
+288,disease,Bone,"Achondrogenesis-hypochondrogenesis, type II",11.619047,#c0bb56
+289,disease,Skeletal,Kniest dysplasia,11.619047,#ffffcc
+291,disease,Skeletal,SMED Strudwick type,11.619047,#ffffcc
+293,disease,Ophthamological,Wagner syndrome,11.619047,#993399
+294,disease,Unclassified,"Aneurysm, familial arterial",11.619047,#999999
+301,disease,Dermatological,EBD,11.619047,#ff9933
+303,disease,Dermatological,"Toenail dystrophy, isolated",11.619047,#ff9933
+304,disease,Dermatological,Transient bullous of the newborn,11.619047,#ff9933
+305,disease,Ophthamological,Fuchs endothelial corneal dystrophy,11.619047,#993399
+310,disease,Multiple,Marshall syndrome,11.619047,#c0bb56
+311,disease,Bone,OSMED syndrome,11.619047,#c0bb56
+312,disease,Connective tissue disorder,Weissenbacher-Zweymuller syndrome,11.619047,#ffff80
+313,disease,Skeletal,Pseudoachondroplasia,11.619047,#ffffcc
+316,disease,Hematological,"Hemosiderosis, systemic, due to aceruloplasminemia",11.619047,#99cc00
+317,disease,Metabolic,Hypoceruloplasminemia,11.619047,#b3ecf7
+334,disease,Cancer,Pilomatricoma,11.619047,#cc6600
+342,disease,Hematological,Coumarin resistance,11.619047,#99cc00
+363,disease,Metabolic,Dopamine beta-hydroxylase deciency,11.619047,#b3ecf7
+365,disease,Endocrine,Angiotensin I-converting enzyme,11.619047,#ffcc00
+366,disease,Immunological,"SARS, progression of",11.619047,#339966
+368,disease,Neurological,"Lower motor neuron disease, progressive, without sensory symptoms",11.619047,#ee4444
+374,disease,Neurological,Jensen syndrome,11.619047,#ee4444
+375,disease,Neurological,Mohr-Tranebjaerg syndrome,11.619047,#ee4444
+376,disease,Neurological,Meniere disease,11.619047,#ee4444
+380,disease,Unclassified,Benzene toxicity,11.619047,#999999
+386,disease,Muscular,Duchenne muscular dystrophy,11.619047,#ff572d
+403,disease,Multiple,Dilated cardiomyopathy with woolly hair and keratoderma,11.619047,#c0bb56
+404,disease,Dermatological,Skin fragility-woolly hair syndrome,11.619047,#ff9933
+405,disease,Bone,"Dentin dysplasia, type II",11.619047,#c0bb56
+406,disease,Bone,"Dentinogenesis imperfecta, Shields type",11.619047,#c0bb56
+407,disease,Bone,Achondrogenesis Ib,11.619047,#c0bb56
+409,disease,Skeletal,Diastrophic dysplasia,11.619047,#ffffcc
+415,disease,Multiple,Shah-Waardenburg syndrome,11.619047,#c0bb56
+416,disease,Multiple,ABCD syndrome,11.619047,#c0bb56
+422,disease,Hematological,"Hematopoiesis, cyclic",11.619047,#99cc00
+424,disease,Cardiovascular,Supravalvar aortic stenosis,11.619047,#0099ff
+425,disease,Multiple,Williams-Beuren syndrome,11.619047,#c0bb56
+434,disease,Endocrine,Estrogen resistance,11.619047,#ffcc00
+442,disease,Neurological,Branchiootic syndrome,11.619047,#ee4444
+453,disease,Cardiovascular,Aortic aneurysm,11.619047,#0099ff
+455,disease,Connective tissue disorder,MASS syndrome,11.619047,#ffff80
+456,disease,Multiple,Shprintzen-Goldberg syndrome,11.619047,#c0bb56
+468,disease,Multiple,Aarskog-Scott syndrome,11.619047,#c0bb56
+473,disease,Skeletal,Achondroplasia,11.619047,#ffffcc
+475,disease,Cancer,Cervical carcinoma,11.619047,#cc6600
+477,disease,Skeletal,Hypochondroplasia,11.619047,#ffffcc
+478,disease,Skeletal,Muenke syndrome,11.619047,#ffffcc
+479,disease,Skeletal,"Thanatophoric dysplasia, types I and II",11.619047,#ffffcc
+480,disease,Connective tissue disorder,Apert syndrome,11.619047,#ffff80
+481,disease,Multiple,Beare-Stevenson cutis gyrata syndrome,11.619047,#c0bb56
+482,disease,Multiple,Craniofacial-skeletal-dermatologic dysplasia,11.619047,#c0bb56
+486,disease,Hematological,Hypofibrinogenemia,11.619047,#99cc00
+490,disease,Ophthamological,Axenfeld anomaly,11.619047,#993399
+492,disease,Ophthamological,Iris hypoplasia and glaucoma,11.619047,#993399
+502,disease,Skeletal,Larson syndrome,11.619047,#ffffcc
+503,disease,Skeletal,Spondylocarpotarsal synostosis syndrome,11.619047,#ffffcc
+523,disease,Metabolic,Favism,11.619047,#b3ecf7
+524,disease,Metabolic,G6PD deficiency,11.619047,#b3ecf7
+535,disease,Hematological,Dyserythropoietic anemia,11.619047,#99cc00
+536,disease,Hematological,Macrothrombocytopenia,11.619047,#99cc00
+540,disease,Metabolic,Hyperinsulinism,11.619047,#b3ecf7
+542,disease,Hematological,Adult i phenotype,11.619047,#99cc00
+552,disease,Cardiovascular,Hypoplastic left heart syndrome,11.619047,#0099ff
+553,disease,Skeletal,Oculodentodigital dysplasia,11.619047,#ffffcc
+554,disease,Skeletal,Syndactyly,11.619047,#ffffcc
+555,disease,Multiple,Bart-Pumphrey syndrome,11.619047,#c0bb56
+556,disease,Multiple,Hystrix-like ichthyosis with deafness,11.619047,#c0bb56
+557,disease,Multiple,Keratitis-ichthyosis-deafness syndrome,11.619047,#c0bb56
+558,disease,Dermatological,"Keratoderma, palmoplantar, with deafness",11.619047,#ff9933
+563,disease,Multiple,Simpson-Golabi-Behmel syndrome,11.619047,#c0bb56
+576,disease,Multiple,McCune-Albright syndrome,11.619047,#c0bb56
+577,disease,Bone,Osseous heteroplasia,11.619047,#c0bb56
+578,disease,Endocrine,Pseudohypoparathyroidism,11.619047,#ffcc00
+579,disease,Endocrine,Somatotrophinoma,11.619047,#ffcc00
+585,disease,Metabolic,Glutathione synthetase deciency,11.619047,#b3ecf7
+605,disease,Metabolic,"Sandho disease, infantile, juvenile, and adult forms",11.619047,#b3ecf7
+606,disease,Hematological,Hemolytic-uremic syndrome,11.619047,#99cc00
+608,disease,Renal,Nephropathy-hypertension,11.619047,#cc0099
+627,disease,Skeletal,Vertical talus,11.619047,#ffffcc
+633,disease,Multiple,Costello syndrome,11.619047,#c0bb56
+637,disease,Bone,"Apparent mineralocorticoid excess, hypertension due to",11.619047,#c0bb56
+643,disease,Unclassified,Alcohol dependence,11.619047,#999999
+644,disease,Nutritional,Anorexia nervosa,11.619047,#ff0099
+645,disease,Psychiatric,Seasonal affective disorder,11.619047,#6699cc
+663,disease,Immunological,Graft-versus-host disease,11.619047,#339966
+664,disease,Immunological,Allergic rhinitis,11.619047,#339966
+665,disease,Endocrine,Hyperproinsulinemia,11.619047,#ffcc00
+667,disease,Developmental,Leprechaunism,11.619047,#b84be7
+668,disease,Multiple,Rabson-Mendenhall syndrome,11.619047,#c0bb56
+669,disease,Gastrointestinal,Pancreatic agenesis,11.619047,#cc9900
+670,disease,Hematological,Macrocytic anemia,11.619047,#99cc00
+680,disease,Hematological,"Myelofibrosis, idiopathic",11.619047,#99cc00
+686,disease,Cardiovascular,Acquired long QT syndrome,11.619047,#0099ff
+687,disease,Metabolic,Persistent hyperinsulinemic hypoglycemia of infancy,11.619047,#b3ecf7
+689,disease,Neurological,Myokymia with neonatal epilepsy,11.619047,#ee4444
+693,disease,Cancer,Mast cell leukemia,11.619047,#cc6600
+694,disease,Immunological,Mastocytosis with associated hematologic disorder,11.619047,#339966
+695,disease,Dermatological,Piebaldism,11.619047,#ff9933
+701,disease,Cancer,Stomach cancer,11.619047,#cc6600
+702,disease,Dermatological,Cyclic ichthyosis with epidermolytic hyperkeratosis,11.619047,#ff9933
+704,disease,Dermatological,"Unna-Thost disease, nonepidermolytic",11.619047,#ff9933
+709,disease,Dermatological,"Nevus, epidermal, epidermolytic hyperkeratotic type",11.619047,#ff9933
+716,disease,Multiple,Laryngoonychocutaneous syndrome,11.619047,#c0bb56
+743,disease,Bone,Bone mineral density variability,11.619047,#c0bb56
+745,disease,Bone,"Hyperostosis, endosteal",11.619047,#c0bb56
+746,disease,Bone,Osteoporosis-pseudoglioma syndrome,11.619047,#c0bb56
+747,disease,Unclassified,van Buchem disease,11.619047,#999999
+748,disease,Cancer,Juvenile polyposis/hereditary hemorrhagic telangiectasia syndrome,11.619047,#cc6600
+752,disease,Neurological,Pallidopontonigral degeneration,11.619047,#ee4444
+753,disease,Neurological,Supranuclear palsy,11.619047,#ee4444
+754,disease,Neurological,Tauopathy and respiratory failure,11.619047,#ee4444
+766,disease,Neurological,PPM-X syndrome,11.619047,#ee4444
+769,disease,Cancer,Adrenal adenoma,11.619047,#cc6600
+770,disease,Endocrine,"Angiofibroma, sporadic",11.619047,#ffcc00
+771,disease,Cancer,Carcinoid tumor of lung,11.619047,#cc6600
+774,disease,Endocrine,"Prolactinoma, hyperparathyroidism, carcinoid syndrome",11.619047,#ffcc00
+781,disease,Multiple,Tietz syndrome,11.619047,#c0bb56
+792,disease,Immunological,Myeloperoxidase deficiency,11.619047,#339966
+794,disease,Cancer,Lynch cancer family syndrome II,11.619047,#cc6600
+798,disease,Developmental,Witkop syndrome,11.619047,#b84be7
+810,disease,Cancer,Neurofibrosarcoma,11.619047,#cc6600
+816,disease,Multiple,Trismus-pseudocomptodactyly syndrome,11.619047,#c0bb56
+817,disease,Hematological,Epstein syndrome,11.619047,#99cc00
+818,disease,Multiple,Fechtner syndrome,11.619047,#c0bb56
+819,disease,Hematological,May-Hegglin anomaly,11.619047,#99cc00
+820,disease,Hematological,Sebastian syndrome,11.619047,#99cc00
+826,disease,Multiple,Nijmegen breakage syndrome,11.619047,#c0bb56
+828,disease,Ophthamological,Coats disease,11.619047,#993399
+829,disease,Neurological,Norrie disease,11.619047,#ee4444
+833,disease,Cancer,Neurofibromatosis,11.619047,#cc6600
+834,disease,Cancer,Neurobromatosis-Noonan syndrome,11.619047,#cc6600
+835,disease,Cancer,Watson syndrome,11.619047,#cc6600
+836,disease,Cancer,Schwannomatosis,11.619047,#cc6600
+841,disease,Cardiovascular,Coronary spasms,11.619047,#0099ff
+842,disease,Unclassified,Placental abruption,11.619047,#999999
+852,disease,Neurological,Insensitivity to pain,11.619047,#ee4444
+868,disease,Immunological,Leprosy,11.619047,#339966
+871,disease,Multiple,Craniofacial-deafness-hand syndrome,11.619047,#c0bb56
+872,disease,Ophthamological,"Aniridia, type II",11.619047,#993399
+874,disease,Ophthamological,Eye anomalies,11.619047,#993399
+875,disease,Ophthamological,Foveal hypoplasia,11.619047,#993399
+876,disease,Ophthamological,Keratitis,11.619047,#993399
+877,disease,Skeletal,Morning glory disc anomaly,11.619047,#ffffcc
+878,disease,Ophthamological,Optic nerve hypoplasia/aplasia,11.619047,#993399
+879,disease,Skeletal,Oligodontia,11.619047,#ffffcc
+882,disease,Cancer,Dermatobrosarcoma protuberans,11.619047,#cc6600
+883,disease,Cancer,Giant-cell fibroblastoma,11.619047,#cc6600
+884,disease,Hematological,Hypereosinophilic syndrome,11.619047,#99cc00
+887,disease,Connective tissue disorder,Ossication of the posterior longitudinal spinal ligaments,11.619047,#ffff80
+888,disease,"Ear,Nose,Throat",Enlarged vestibular aqueduct,11.619047,#66cccc
+889,disease,"Ear,Nose,Throat",Pendred syndrome,11.619047,#66cccc
+897,disease,Metabolic,Myoglobinuria/hemolysis due to PGK deciency,11.619047,#b3ecf7
+902,disease,Respiratory,Emphysema,11.619047,#ff9999
+904,disease,Ophthamological,Ring dermoid of cornea,11.619047,#993399
+909,disease,Connective tissue disorder,Nevo syndrome,11.619047,#ffff80
+911,disease,Neurological,Pelizaeus-Merzbacher disease,11.619047,#ee4444
+912,disease,Multiple,Neuroectodermal tumors,11.619047,#c0bb56
+923,disease,Cancer,Adrenocortical carcinoma,11.619047,#cc6600
+924,disease,Cardiovascular,"Myxoma, intracardiac",11.619047,#0099ff
+925,disease,Cancer,"Pigmented adrenocortical disease, primary isolated",11.619047,#cc6600
+928,disease,Neurological,Gerstmann-Straussler disease,11.619047,#ee4444
+929,disease,Neurological,Prion disease with protracted course,11.619047,#ee4444
+935,disease,Neurological,Pick disease,11.619047,#ee4444
+939,disease,Multiple,Basal cell nevus syndrome,11.619047,#c0bb56
+941,disease,Unclassified,Bannayan-Riley-Ruvalcaba syndrome,11.619047,#999999
+942,disease,Cancer,Lhermitte-Duclos syndrome,11.619047,#cc6600
+943,disease,Cancer,Oligodendroglioma,11.619047,#cc6600
+944,disease,Multiple,VATER association with hydrocephalus,11.619047,#c0bb56
+947,disease,Multiple,Leopard syndrome,11.619047,#c0bb56
+948,disease,Developmental,Noonan syndrome,11.619047,#b84be7
+949,disease,Multiple,Zlotogora-Ogur syndrome,11.619047,#c0bb56
+954,disease,Cardiovascular,Capillary malformations,11.619047,#0099ff
+955,disease,Multiple,Parkes Weber syndrome,11.619047,#c0bb56
+956,disease,Cancer,Retinoblastoma,11.619047,#cc6600
+958,disease,Ophthamological,"Butterfly dystrophy, retinal",11.619047,#993399
+959,disease,Ophthamological,"Foveomacular dystrophy, adult-onset, with choroidal neovascularization",11.619047,#993399
+960,disease,Cardiovascular,Hyperproreninemia,11.619047,#0099ff
+961,disease,Gastrointestinal,"Colonic aganglionosis, total, with small bowel involvement",11.619047,#cc9900
+962,disease,Hematological,Rh-mod syndrome,11.619047,#99cc00
+965,disease,Ophthamological,Bothnia retinal dystrophy,11.619047,#993399
+966,disease,Ophthamological,Newfoundland rod-cone dystrophy,11.619047,#993399
+969,disease,Multiple,Coffin-Lowry syndrome,11.619047,#c0bb56
+974,disease,Muscular,"Cramps, potassium-aggravated",11.619047,#ff572d
+975,disease,Neurological,Hyperkalemic periodic paralysis,11.619047,#ee4444
+976,disease,Muscular,Paramyotonia congenita,11.619047,#ff572d
+977,disease,Cardiovascular,Brugada syndrome,11.619047,#0099ff
+978,disease,Cardiovascular,Heart block,11.619047,#0099ff
+979,disease,Cardiovascular,Sick sinus syndrome,11.619047,#0099ff
+980,disease,Cardiovascular,"Ventricular brillation, idiopathic",11.619047,#0099ff
+986,disease,Cancer,"Carcinoid tumors, intestinal",11.619047,#cc6600
+987,disease,Cancer,Merkel cell carcinoma,11.619047,#cc6600
+991,disease,Skeletal,Solitary median maxillary central incisor,11.619047,#ffffcc
+996,disease,Metabolic,Fanconi-Bickel syndrome,11.619047,#b3ecf7
+1002,disease,Psychiatric,Anxiety-related personality traits,11.619047,#6699cc
+1003,disease,Neurological,"Creatine deciency syndrome, X-linked",11.619047,#ee4444
+1012,disease,Endocrine,Infundibular hypoplasia and hypopituitarism,11.619047,#ffcc00
+1015,disease,Neurological,PCWH,11.619047,#ee4444
+1016,disease,Multiple,Yemenite deaf-blind hypopigmentation syndrome,11.619047,#c0bb56
+1020,disease,Hematological,Pyropoikilocytosis,11.619047,#99cc00
+1025,disease,Cancer,Peutz-Jeghers syndrome,11.619047,#cc6600
+1027,disease,Metabolic,Hypoglycemia,11.619047,#b3ecf7
+1029,disease,Immunological,Wegener granulomatosis,11.619047,#339966
+1033,disease,Multiple,Barth syndrome,11.619047,#c0bb56
+1034,disease,Cardiovascular,Noncompaction of left ventricular myocardium,11.619047,#0099ff
+1040,disease,Renal,"Glomerulocystic kidney disease, hypoplastic",11.619047,#cc0099
+1047,disease,Endocrine,Autoimmune thyroid disease,11.619047,#ffcc00
+1051,disease,Dermatological,Self-healing collodion baby,11.619047,#ff9933
+1065,disease,Cancer,Adrenal cortical carcinoma,11.619047,#cc6600
+1066,disease,Cancer,Histiocytoma,11.619047,#cc6600
+1068,disease,Cancer,Multiple malignancy syndrome,11.619047,#cc6600
+1069,disease,Cancer,Nasopharyngeal carcinoma,11.619047,#cc6600
+1072,disease,Endocrine,Hyperthyroidism,11.619047,#ffcc00
+1073,disease,Endocrine,Total iodide organication defect,11.619047,#ffcc00
+1078,disease,Endocrine,Hyperthroidism,11.619047,#ffcc00
+1080,disease,Neurological,Amyloid neuropathy,11.619047,#ee4444
+1081,disease,Unclassified,"Carpal tunnel syndrome, familial",11.619047,#999999
+1082,disease,Hematological,Dystransthyretinemic hyperthyroxinemia,11.619047,#99cc00
+1089,disease,Cancer,"Hemangioblastoma, cerebellar",11.619047,#cc6600
+1091,disease,Ophthamological,"Maculopathy, bull's-eye",11.619047,#993399
+1092,disease,Ophthamological,Vitelliform macular dystrophy,11.619047,#993399
+1094,disease,Immunological,Wiskott-Aldrich syndrome,11.619047,#339966
+1099,disease,Renal,Denys-Drash syndrome,11.619047,#cc0099
+1100,disease,Multiple,Frasier syndrome,11.619047,#c0bb56
+1101,disease,Renal,Mesangial sclerosis,11.619047,#cc0099
+1102,disease,Multiple,WAGR syndrome,11.619047,#c0bb56
+1120,disease,Cancer,Salivary adenoma,11.619047,#cc6600
+1121,disease,Cancer,Uterine leiomyoma,11.619047,#cc6600
+1130,disease,Muscular,Miyoshi myopathy,11.619047,#ff572d
+1132,disease,Cancer,Oligodontia-colorectal cancer syndrome,11.619047,#cc6600
+1136,disease,Dermatological,Incontinentia pigmenti,11.619047,#ff9933
+1148,disease,Bone,Arthropathy,11.619047,#c0bb56
+1152,disease,Cancer,Mesothelioma,11.619047,#cc6600
+1153,disease,Cancer,Sezary syndrome,11.619047,#cc6600
+1174,disease,Muscular,Myotilinopathy,11.619047,#ff572d
+1181,disease,Ophthamological,Enhanced S-cone syndrome,11.619047,#993399
+1198,disease,Dermatological,Netherton syndrome,11.619047,#ff9933
+1208,disease,Ophthamological,Pigmented paravenous chorioretinal atrophy,11.619047,#993399
+1221,disease,Neurological,Silver spastic paraplegia syndrome,11.619047,#ee4444
+1227,disease,Multiple,"Craniofacial anomalies, empty sella turcica, corneal endothelial changes",11.619047,#c0bb56
+1228,disease,Ophthamological,Keratoconus,11.619047,#993399
+1232,disease,Multiple,"Immunodysregulation, polyendocrinopathy, and enteropathy, X-linked",11.619047,#c0bb56
+1238,disease,Immunological,IgE levels QTL,11.619047,#339966
+1242,disease,Cardiovascular,Wolff-Parkinson-White syndrome,11.619047,#0099ff
+1270,disease,Neurological,Primary lateral sclerosis,11.619047,#ee4444
+1285,disease,Metabolic,3-methylglutaconicaciduria,11.619047,#b3ecf7
+1289,disease,Neurological,Convulsions,11.619047,#ee4444
+1303,disease,Neurological,Infantile spasm syndrome,11.619047,#ee4444
+1304,disease,Neurological,Partington syndrome,11.619047,#ee4444
+1305,disease,Multiple,Proud syndrome,11.619047,#c0bb56
+1306,disease,Dermatological,Birt-Hogg-Dube syndrome,11.619047,#ff9933
+1307,disease,Respiratory,"Pneumothorax, primary spontaneous",11.619047,#ff9999
+1329,gene,gene,MTP,4,#182169
+1338,gene,gene,CNGA3,4,#182169
+1339,gene,gene,GNAT2,4,#182169
+1348,gene,gene,SSTR5,4,#182169
+1361,gene,gene,PLAG1,4,#182169
+1394,gene,gene,OCA2,4,#182169
+1396,gene,gene,TYRP1,4,#182169
+1402,gene,gene,GFAP,4,#182169
+1420,gene,gene,A2M,4,#182169
+1421,gene,gene,APBB2,4,#182169
+1424,gene,gene,BLMH,4,#182169
+1428,gene,gene,PLAU,4,#182169
+1430,gene,gene,PSEN2,4,#182169
+1431,gene,gene,PAXIP1,4,#182169
+1442,gene,gene,GSN,4,#182169
+1443,gene,gene,LYZ,4,#182169
+1446,gene,gene,NEFH,4,#182169
+1447,gene,gene,PRPH,4,#182169
+1448,gene,gene,SOD1,4,#182169
+1455,gene,gene,ABCB7,4,#182169
+1456,gene,gene,ALAS2,4,#182169
+1457,gene,gene,SLC11A2,4,#182169
+1458,gene,gene,PKLR,4,#182169
+1460,gene,gene,RPS19,4,#182169
+1462,gene,gene,NT5C3,4,#182169
+1463,gene,gene,CDAN1,4,#182169
+1465,gene,gene,UBE3A,4,#182169
+1477,gene,gene,FOXE3,4,#182169
+1491,gene,gene,APOC3,4,#182169
+1492,gene,gene,APOH,4,#182169
+1501,gene,gene,PKP2,4,#182169
+1512,gene,gene,MS4A2,4,#182169
+1513,gene,gene,HNMT,4,#182169
+1514,gene,gene,IL12B,4,#182169
+1515,gene,gene,IL13,4,#182169
+1516,gene,gene,PTGDR,4,#182169
+1518,gene,gene,SCGB1A1,4,#182169
+1521,gene,gene,SCGB3A2,4,#182169
+1522,gene,gene,GPR154,4,#182169
+1524,gene,gene,TTPA,4,#182169
+1525,gene,gene,ALS4,4,#182169
+1526,gene,gene,APTX,4,#182169
+1527,gene,gene,ATCAY,4,#182169
+1529,gene,gene,MRE11A,4,#182169
+1533,gene,gene,ALOX5,4,#182169
+1534,gene,gene,IL4R,4,#182169
+1535,gene,gene,SELP,4,#182169
+1538,gene,gene,HAVCR1,4,#182169
+1541,gene,gene,GATA4,4,#182169
+1548,gene,gene,CRELD1,4,#182169
+1550,gene,gene,GLO1,4,#182169
+1552,gene,gene,NLGN3,4,#182169
+1554,gene,gene,AIRE,4,#182169
+1573,gene,gene,RFX5,4,#182169
+1574,gene,gene,RFXAP,4,#182169
+1576,gene,gene,TAPBP,4,#182169
+1586,gene,gene,SMO,4,#182169
+1621,gene,gene,ABO,4,#182169
+1622,gene,gene,ACHE,4,#182169
+1623,gene,gene,AQP1,4,#182169
+1624,gene,gene,AQP3,4,#182169
+1625,gene,gene,DO,4,#182169
+1626,gene,gene,BSG,4,#182169
+1627,gene,gene,CD44,4,#182169
+1628,gene,gene,CR1,4,#182169
+1629,gene,gene,DAF,4,#182169
+1630,gene,gene,FUT3,4,#182169
+1631,gene,gene,GCNT2,4,#182169
+1632,gene,gene,GYPA,4,#182169
+1633,gene,gene,GYPB,4,#182169
+1635,gene,gene,ICAM4,4,#182169
+1636,gene,gene,KEL,4,#182169
+1637,gene,gene,LU,4,#182169
+1640,gene,gene,SLC14A1,4,#182169
+1641,gene,gene,XG,4,#182169
+1642,gene,gene,B3GALT3,4,#182169
+1643,gene,gene,A4GALT,4,#182169
+1660,gene,gene,EYA1,4,#182169
+1663,gene,gene,BARD1,4,#182169
+1669,gene,gene,PHB,4,#182169
+1671,gene,gene,RAD51,4,#182169
+1673,gene,gene,TSG101,4,#182169
+1676,gene,gene,PPM1D,4,#182169
+1677,gene,gene,RB1CC1,4,#182169
+1687,gene,gene,C1QA,4,#182169
+1688,gene,gene,C1QB,4,#182169
+1689,gene,gene,C1QG,4,#182169
+1690,gene,gene,C1S,4,#182169
+1691,gene,gene,C2,4,#182169
+1692,gene,gene,C3,4,#182169
+1693,gene,gene,C4A,4,#182169
+1694,gene,gene,C4B,4,#182169
+1696,gene,gene,C7,4,#182169
+1697,gene,gene,C8B,4,#182169
+1698,gene,gene,C9,4,#182169
+1699,gene,gene,IF,4,#182169
+1709,gene,gene,FGFR4,4,#182169
+1719,gene,gene,ACTC,4,#182169
+1726,gene,gene,MYBPC3,4,#182169
+1727,gene,gene,MYH6,4,#182169
+1729,gene,gene,MYL2,4,#182169
+1730,gene,gene,MYL3,4,#182169
+1731,gene,gene,PLN,4,#182169
+1734,gene,gene,TNNC1,4,#182169
+1735,gene,gene,TNNI3,4,#182169
+1736,gene,gene,TNNT2,4,#182169
+1737,gene,gene,TPM1,4,#182169
+1739,gene,gene,CSRP3,4,#182169
+1741,gene,gene,ABCC9,4,#182169
+1743,gene,gene,MYLK2,4,#182169
+1750,gene,gene,CRYAA,4,#182169
+1752,gene,gene,CRYBA1,4,#182169
+1753,gene,gene,CRYBB1,4,#182169
+1754,gene,gene,CRYBB2,4,#182169
+1755,gene,gene,CRYGC,4,#182169
+1756,gene,gene,CRYGD,4,#182169
+1757,gene,gene,GJA3,4,#182169
+1758,gene,gene,GJA8,4,#182169
+1759,gene,gene,HSF4,4,#182169
+1760,gene,gene,LIM2,4,#182169
+1761,gene,gene,MIP,4,#182169
+1763,gene,gene,PITX3,4,#182169
+1764,gene,gene,BFSP2,4,#182169
+1776,gene,gene,CST3,4,#182169
+1792,gene,gene,DNM2,4,#182169
+1795,gene,gene,GJB1,4,#182169
+1799,gene,gene,NEFL,4,#182169
+1801,gene,gene,RAB7,4,#182169
+1802,gene,gene,MTMR2,4,#182169
+1803,gene,gene,LITAF,4,#182169
+1804,gene,gene,MFN2,4,#182169
+1805,gene,gene,NDRG1,4,#182169
+1806,gene,gene,KIF1B,4,#182169
+1807,gene,gene,GDAP1,4,#182169
+1808,gene,gene,SH3TC2,4,#182169
+1809,gene,gene,SBF2,4,#182169
+1852,gene,gene,TBX22,4,#182169
+1868,gene,gene,BUB1,4,#182169
+1869,gene,gene,BUB1B,4,#182169
+1871,gene,gene,DCC,4,#182169
+1875,gene,gene,MCC,4,#182169
+1879,gene,gene,NRAS,4,#182169
+1880,gene,gene,ODC1,4,#182169
+1883,gene,gene,PLA2G2A,4,#182169
+1884,gene,gene,PMS1,4,#182169
+1886,gene,gene,PTPN12,4,#182169
+1887,gene,gene,PTPRJ,4,#182169
+1888,gene,gene,SRC,4,#182169
+1894,gene,gene,DLC1,4,#182169
+1896,gene,gene,MLH3,4,#182169
+1907,gene,gene,GUCA1A,4,#182169
+1935,gene,gene,TACSTD2,4,#182169
+1936,gene,gene,TGFBI,4,#182169
+1937,gene,gene,KERA,4,#182169
+1939,gene,gene,PIP5K3,4,#182169
+1942,gene,gene,MEF2A,4,#182169
+1943,gene,gene,MMP3,4,#182169
+1944,gene,gene,PON1,4,#182169
+1945,gene,gene,PON2,4,#182169
+1946,gene,gene,KL,4,#182169
+1955,gene,gene,CPT1A,4,#182169
+1967,gene,gene,HLA-DQB1,4,#182169
+1990,gene,gene,ACTG1,4,#182169
+1992,gene,gene,ATP2B2,4,#182169
+1994,gene,gene,CRYM,4,#182169
+1996,gene,gene,DFNA5,4,#182169
+1998,gene,gene,DIAPH1,4,#182169
+2000,gene,gene,EYA4,4,#182169
+2004,gene,gene,MYO1A,4,#182169
+2005,gene,gene,MYO6,4,#182169
+2008,gene,gene,POU3F4,4,#182169
+2009,gene,gene,POU4F3,4,#182169
+2010,gene,gene,TECTA,4,#182169
+2011,gene,gene,KCNQ4,4,#182169
+2012,gene,gene,OTOF,4,#182169
+2015,gene,gene,CLDN14,4,#182169
+2016,gene,gene,DFNB31,4,#182169
+2017,gene,gene,MYO15A,4,#182169
+2018,gene,gene,MYO3A,4,#182169
+2019,gene,gene,KIAA1199,4,#182169
+2021,gene,gene,TMPRSS3,4,#182169
+2023,gene,gene,MYH14,4,#182169
+2024,gene,gene,GRHL2,4,#182169
+2025,gene,gene,ESPN,4,#182169
+2026,gene,gene,TMC1,4,#182169
+2027,gene,gene,OTOA,4,#182169
+2028,gene,gene,STRC,4,#182169
+2029,gene,gene,TMIE,4,#182169
+2030,gene,gene,SLC26A5,4,#182169
+2035,gene,gene,PRX,4,#182169
+2039,gene,gene,SNCB,4,#182169
+2042,gene,gene,ITM2B,4,#182169
+2049,gene,gene,DSPP,4,#182169
+2055,gene,gene,AKT2,4,#182169
+2057,gene,gene,GCGR,4,#182169
+2059,gene,gene,GPD2,4,#182169
+2063,gene,gene,IRS1,4,#182169
+2065,gene,gene,NEUROD1,4,#182169
+2069,gene,gene,SLC2A4,4,#182169
+2073,gene,gene,VEGF,4,#182169
+2074,gene,gene,IRS2,4,#182169
+2075,gene,gene,MAPK8IP1,4,#182169
+2076,gene,gene,CAPN10,4,#182169
+2080,gene,gene,PTF1A,4,#182169
+2081,gene,gene,SUMO4,4,#182169
+2099,gene,gene,DMD,4,#182169
+2105,gene,gene,FGA,4,#182169
+2120,gene,gene,TTR,4,#182169
+2122,gene,gene,EDA,4,#182169
+2123,gene,gene,NFKBIA,4,#182169
+2124,gene,gene,PKP1,4,#182169
+2127,gene,gene,GJB6,4,#182169
+2128,gene,gene,EDAR,4,#182169
+2129,gene,gene,EDARADD,4,#182169
+2136,gene,gene,COL5A1,4,#182169
+2137,gene,gene,COL5A2,4,#182169
+2139,gene,gene,TNXB,4,#182169
+2140,gene,gene,ADAMTS2,4,#182169
+2141,gene,gene,B4GALT7,4,#182169
+2143,gene,gene,EPB41,4,#182169
+2149,gene,gene,EMD,4,#182169
+2157,gene,gene,MSH3,4,#182169
+2169,gene,gene,COL17A1,4,#182169
+2171,gene,gene,ITGA6,4,#182169
+2172,gene,gene,ITGB4,4,#182169
+2173,gene,gene,KRT5,4,#182169
+2174,gene,gene,KRT14,4,#182169
+2176,gene,gene,LAMB3,4,#182169
+2177,gene,gene,LAMC2,4,#182169
+2180,gene,gene,KRT9,4,#182169
+2182,gene,gene,CACNB4,4,#182169
+2184,gene,gene,CHRNB2,4,#182169
+2185,gene,gene,CLCN2,4,#182169
+2186,gene,gene,CSTB,4,#182169
+2187,gene,gene,GABRA1,4,#182169
+2190,gene,gene,KCNQ3,4,#182169
+2191,gene,gene,ME2,4,#182169
+2192,gene,gene,SCN1A,4,#182169
+2193,gene,gene,SYN1,4,#182169
+2194,gene,gene,EPM2A,4,#182169
+2195,gene,gene,JRK,4,#182169
+2197,gene,gene,SLC25A22,4,#182169
+2198,gene,gene,NHLRC1,4,#182169
+2199,gene,gene,COL9A1,4,#182169
+2203,gene,gene,SLC26A2,4,#182169
+2206,gene,gene,KCNA1,4,#182169
+2214,gene,gene,GJB3,4,#182169
+2216,gene,gene,GJB4,4,#182169
+2217,gene,gene,RNF6,4,#182169
+2219,gene,gene,LZTS1,4,#182169
+2220,gene,gene,WWOX,4,#182169
+2229,gene,gene,FZD4,4,#182169
+2235,gene,gene,F10,4,#182169
+2236,gene,gene,F11,4,#182169
+2237,gene,gene,F12,4,#182169
+2238,gene,gene,F13A1,4,#182169
+2239,gene,gene,F13B,4,#182169
+2241,gene,gene,MCFD2,4,#182169
+2244,gene,gene,FANCA,4,#182169
+2245,gene,gene,FANCC,4,#182169
+2246,gene,gene,FANCD2,4,#182169
+2247,gene,gene,FANCE,4,#182169
+2248,gene,gene,FANCB,4,#182169
+2249,gene,gene,FANCF,4,#182169
+2250,gene,gene,FANCG,4,#182169
+2251,gene,gene,FANCL,4,#182169
+2252,gene,gene,FANCM,4,#182169
+2253,gene,gene,BRIP1,4,#182169
+2254,gene,gene,SLC2A2,4,#182169
+2285,gene,gene,COL8A2,4,#182169
+2290,gene,gene,RDH5,4,#182169
+2306,gene,gene,IL1B,4,#182169
+2307,gene,gene,IL1RN,4,#182169
+2309,gene,gene,MUTYH,4,#182169
+2328,gene,gene,MYOC,4,#182169
+2330,gene,gene,OPTN,4,#182169
+2331,gene,gene,DMBT1,4,#182169
+2335,gene,gene,LGI1,4,#182169
+2380,gene,gene,GC,4,#182169
+2386,gene,gene,GHRHR,4,#182169
+2418,gene,gene,AK1,4,#182169
+2419,gene,gene,BPGM,4,#182169
+2420,gene,gene,G6PD,4,#182169
+2421,gene,gene,GCLC,4,#182169
+2422,gene,gene,GPI,4,#182169
+2423,gene,gene,GSS,4,#182169
+2424,gene,gene,HK1,4,#182169
+2427,gene,gene,TPI1,4,#182169
+2434,gene,gene,SERPINA1,4,#182169
+2437,gene,gene,CASP8,4,#182169
+2439,gene,gene,IGF2R,4,#182169
+2441,gene,gene,PDGFRL,4,#182169
+2444,gene,gene,AXIN1,4,#182169
+2462,gene,gene,GDNF,4,#182169
+2463,gene,gene,NRTN,4,#182169
+2468,gene,gene,CCR2,4,#182169
+2469,gene,gene,CCR5,4,#182169
+2471,gene,gene,CCL5,4,#182169
+2477,gene,gene,SIX3,4,#182169
+2478,gene,gene,TGIF,4,#182169
+2479,gene,gene,ZIC2,4,#182169
+2483,gene,gene,MTHFR,4,#182169
+2492,gene,gene,HD,4,#182169
+2495,gene,gene,JPH3,4,#182169
+2504,gene,gene,BAAT,4,#182169
+2506,gene,gene,TJP2,4,#182169
+2507,gene,gene,APOA2,4,#182169
+2509,gene,gene,EPHX2,4,#182169
+2510,gene,gene,ITIH4,4,#182169
+2511,gene,gene,LDLR,4,#182169
+2512,gene,gene,C7orf16,4,#182169
+2513,gene,gene,LDLRAP1,4,#182169
+2514,gene,gene,PCSK9,4,#182169
+2517,gene,gene,PDGFRA,4,#182169
+2525,gene,gene,APOC2,4,#182169
+2541,gene,gene,ALDH4A1,4,#182169
+2544,gene,gene,ADD1,4,#182169
+2547,gene,gene,CYP3A5,4,#182169
+2548,gene,gene,ECE1,4,#182169
+2549,gene,gene,GNB3,4,#182169
+2550,gene,gene,HSD11B2,4,#182169
+2551,gene,gene,KCNMB1,4,#182169
+2554,gene,gene,PTGIS,4,#182169
+2555,gene,gene,RETN,4,#182169
+2560,gene,gene,APOA5,4,#182169
+2561,gene,gene,LIPI,4,#182169
+2565,gene,gene,APOA1,4,#182169
+2566,gene,gene,APOB,4,#182169
+2568,gene,gene,CASR,4,#182169
+2569,gene,gene,CP,4,#182169
+2576,gene,gene,ABCC8,4,#182169
+2585,gene,gene,KCNE3,4,#182169
+2601,gene,gene,CTLA4,4,#182169
+2602,gene,gene,SLC5A5,4,#182169
+2604,gene,gene,TSHB,4,#182169
+2606,gene,gene,PAX8,4,#182169
+2607,gene,gene,DUOX2,4,#182169
+2614,gene,gene,ALOX12B,4,#182169
+2616,gene,gene,ALOXE3,4,#182169
+2619,gene,gene,KRT2A,4,#182169
+2622,gene,gene,ABCA12,4,#182169
+2623,gene,gene,ICHTHYIN,4,#182169
+2625,gene,gene,PHF11,4,#182169
+2635,gene,gene,FOXP3,4,#182169
+2640,gene,gene,IKBKG,4,#182169
+2645,gene,gene,GABRB3,4,#182169
+2648,gene,gene,PPP1R3A,4,#182169
+2649,gene,gene,PTPN1,4,#182169
+2651,gene,gene,COL9A2,4,#182169
+2652,gene,gene,COL9A3,4,#182169
+2675,gene,gene,KAL1,4,#182169
+2685,gene,gene,VSX1,4,#182169
+2687,gene,gene,DSG1,4,#182169
+2690,gene,gene,SAT,4,#182169
+2705,gene,gene,LAMA3,4,#182169
+2711,gene,gene,GUCY2D,4,#182169
+2715,gene,gene,RPGRIP1,4,#182169
+2716,gene,gene,RDH12,4,#182169
+2722,gene,gene,COX15,4,#182169
+2724,gene,gene,NDUFS3,4,#182169
+2727,gene,gene,NDUFS8,4,#182169
+2730,gene,gene,SURF1,4,#182169
+2731,gene,gene,LRPPRC,4,#182169
+2732,gene,gene,NDUFS7,4,#182169
+2740,gene,gene,ABL1,4,#182169
+2741,gene,gene,ARNT,4,#182169
+2743,gene,gene,BCL2,4,#182169
+2744,gene,gene,BCR,4,#182169
+2746,gene,gene,CEBPA,4,#182169
+2747,gene,gene,NQO1,4,#182169
+2748,gene,gene,FLT3,4,#182169
+2750,gene,gene,HOXD4,4,#182169
+2756,gene,gene,NPM1,4,#182169
+2757,gene,gene,NUMA1,4,#182169
+2758,gene,gene,P2RX7,4,#182169
+2759,gene,gene,PML,4,#182169
+2761,gene,gene,STAT5B,4,#182169
+2762,gene,gene,TAL1,4,#182169
+2763,gene,gene,TAL2,4,#182169
+2764,gene,gene,TRA@,4,#182169
+2765,gene,gene,ZBTB16,4,#182169
+2766,gene,gene,NUP214,4,#182169
+2767,gene,gene,MLLT10,4,#182169
+2768,gene,gene,PICALM,4,#182169
+2769,gene,gene,GMPS,4,#182169
+2770,gene,gene,ZNFN1A1,4,#182169
+2771,gene,gene,MLLT11,4,#182169
+2772,gene,gene,ARHGAP26,4,#182169
+2773,gene,gene,ARHGEF12,4,#182169
+2774,gene,gene,CHIC2,4,#182169
+2775,gene,gene,WHSC1L1,4,#182169
+2776,gene,gene,ARL11,4,#182169
+2792,gene,gene,LMNA,4,#182169
+2794,gene,gene,AGPAT2,4,#182169
+2795,gene,gene,PPARGC1A,4,#182169
+2799,gene,gene,LPP,4,#182169
+2805,gene,gene,RELN,4,#182169
+2808,gene,gene,TGFBR1,4,#182169
+2809,gene,gene,TGFBR2,4,#182169
+2812,gene,gene,ANK2,4,#182169
+2813,gene,gene,KCNE1,4,#182169
+2814,gene,gene,KCNH2,4,#182169
+2815,gene,gene,KCNJ2,4,#182169
+2816,gene,gene,KCNQ1,4,#182169
+2818,gene,gene,KCNE2,4,#182169
+2819,gene,gene,DCTN1,4,#182169
+2824,gene,gene,MAP3K8,4,#182169
+2827,gene,gene,PPP2R1B,4,#182169
+2834,gene,gene,BCL8,4,#182169
+2835,gene,gene,FCGR2B,4,#182169
+2836,gene,gene,SH2D1A,4,#182169
+2838,gene,gene,RAP1GDS1,4,#182169
+2840,gene,gene,RAD54L,4,#182169
+2842,gene,gene,RAD54B,4,#182169
+2847,gene,gene,GATA1,4,#182169
+2850,gene,gene,FBLN5,4,#182169
+2851,gene,gene,CNGB3,4,#182169
+2852,gene,gene,HMCN1,4,#182169
+2856,gene,gene,GYPC,4,#182169
+2857,gene,gene,ICAM1,4,#182169
+2858,gene,gene,NOS2A,4,#182169
+2867,gene,gene,BCKDHA,4,#182169
+2868,gene,gene,BCKDHB,4,#182169
+2869,gene,gene,DBT,4,#182169
+2870,gene,gene,GCSL,4,#182169
+2887,gene,gene,PTCH2,4,#182169
+2888,gene,gene,SUFU,4,#182169
+2896,gene,gene,CDK4,4,#182169
+2899,gene,gene,XRCC3,4,#182169
+2904,gene,gene,COCH,4,#182169
+2905,gene,gene,MN1,4,#182169
+2907,gene,gene,PDGFB,4,#182169
+2911,gene,gene,AGTR2,4,#182169
+2912,gene,gene,DLG3,4,#182169
+2913,gene,gene,ACSL4,4,#182169
+2914,gene,gene,FGD1,4,#182169
+2915,gene,gene,AFF2,4,#182169
+2916,gene,gene,GDI1,4,#182169
+2918,gene,gene,OPHN1,4,#182169
+2919,gene,gene,PAK3,4,#182169
+2920,gene,gene,RPS6KA3,4,#182169
+2922,gene,gene,SMS,4,#182169
+2923,gene,gene,SOX3,4,#182169
+2924,gene,gene,TSPAN7,4,#182169
+2925,gene,gene,ZNF41,4,#182169
+2926,gene,gene,SMCX,4,#182169
+2927,gene,gene,PRSS12,4,#182169
+2928,gene,gene,ARHGEF6,4,#182169
+2929,gene,gene,IL1RAPL1,4,#182169
+2930,gene,gene,FTSJ1,4,#182169
+2931,gene,gene,CRBN,4,#182169
+2932,gene,gene,NLGN4X,4,#182169
+2934,gene,gene,ZNF81,4,#182169
+2966,gene,gene,ATP1A2,4,#182169
+2967,gene,gene,EDNRA,4,#182169
+2968,gene,gene,ESR1,4,#182169
+2971,gene,gene,BCS1L,4,#182169
+2972,gene,gene,NDUFS1,4,#182169
+2973,gene,gene,NDUFS2,4,#182169
+2974,gene,gene,NDUFV1,4,#182169
+2975,gene,gene,NDUFS4,4,#182169
+2976,gene,gene,SDHA,4,#182169
+2977,gene,gene,UQCRB,4,#182169
+2979,gene,gene,GCK,4,#182169
+2980,gene,gene,HNF4A,4,#182169
+2981,gene,gene,INS,4,#182169
+2983,gene,gene,TCF1,4,#182169
+2984,gene,gene,TCF2,4,#182169
+2985,gene,gene,TIMM8A,4,#182169
+3016,gene,gene,CAPN3,4,#182169
+3019,gene,gene,LAMA2,4,#182169
+3020,gene,gene,PLEC1,4,#182169
+3021,gene,gene,SGCA,4,#182169
+3022,gene,gene,SGCB,4,#182169
+3023,gene,gene,SGCD,4,#182169
+3024,gene,gene,SGCG,4,#182169
+3025,gene,gene,TTN,4,#182169
+3027,gene,gene,TCAP,4,#182169
+3028,gene,gene,LARGE,4,#182169
+3031,gene,gene,TRIM32,4,#182169
+3032,gene,gene,SEPN1,4,#182169
+3033,gene,gene,FKRP,4,#182169
+3035,gene,gene,CHAT,4,#182169
+3036,gene,gene,CHRNA1,4,#182169
+3037,gene,gene,CHRNB1,4,#182169
+3038,gene,gene,CHRND,4,#182169
+3039,gene,gene,CHRNE,4,#182169
+3040,gene,gene,RAPSN,4,#182169
+3048,gene,gene,MDS1,4,#182169
+3051,gene,gene,CBFB,4,#182169
+3052,gene,gene,CSF1R,4,#182169
+3054,gene,gene,ACSL6,4,#182169
+3057,gene,gene,MPO,4,#182169
+3063,gene,gene,F7,4,#182169
+3064,gene,gene,GCLM,4,#182169
+3065,gene,gene,LGALS2,4,#182169
+3066,gene,gene,LTA,4,#182169
+3067,gene,gene,OLR1,4,#182169
+3069,gene,gene,TNFSF4,4,#182169
+3070,gene,gene,GABRG2,4,#182169
+3071,gene,gene,EFHC1,4,#182169
+3073,gene,gene,PGK1,4,#182169
+3074,gene,gene,KCNQ2,4,#182169
+3076,gene,gene,ACTA1,4,#182169
+3078,gene,gene,CPT2,4,#182169
+3079,gene,gene,CRYAB,4,#182169
+3080,gene,gene,DES,4,#182169
+3081,gene,gene,ITGA7,4,#182169
+3082,gene,gene,MYF6,4,#182169
+3084,gene,gene,PGAM2,4,#182169
+3085,gene,gene,DYSF,4,#182169
+3086,gene,gene,MYOT,4,#182169
+3087,gene,gene,CLCN1,4,#182169
+3113,gene,gene,CFH,4,#182169
+3117,gene,gene,SPINK5,4,#182169
+3119,gene,gene,NME1,4,#182169
+3120,gene,gene,PHOX2B,4,#182169
+3129,gene,gene,EGR2,4,#182169
+3130,gene,gene,HSPB1,4,#182169
+3132,gene,gene,NGFB,4,#182169
+3134,gene,gene,SPTLC1,4,#182169
+3135,gene,gene,HSPB8,4,#182169
+3136,gene,gene,HSN2,4,#182169
+3137,gene,gene,ELA2,4,#182169
+3139,gene,gene,GFI1,4,#182169
+3142,gene,gene,PLOD1,4,#182169
+3143,gene,gene,KRT10,4,#182169
+3145,gene,gene,CHRNA4,4,#182169
+3146,gene,gene,CYP2A6,4,#182169
+3147,gene,gene,GPR51,4,#182169
+3151,gene,gene,CACNA1F,4,#182169
+3152,gene,gene,GNAT1,4,#182169
+3155,gene,gene,NYX,4,#182169
+3156,gene,gene,NBN,4,#182169
+3158,gene,gene,TAZ,4,#182169
+3159,gene,gene,CASP10,4,#182169
+3160,gene,gene,BRAF,4,#182169
+3161,gene,gene,EGFR,4,#182169
+3162,gene,gene,IRF1,4,#182169
+3163,gene,gene,PTPN11,4,#182169
+3164,gene,gene,NDP,4,#182169
+3168,gene,gene,ADRB2,4,#182169
+3169,gene,gene,ADRB3,4,#182169
+3170,gene,gene,AGRP,4,#182169
+3171,gene,gene,AKR1C2,4,#182169
+3172,gene,gene,LEP,4,#182169
+3173,gene,gene,LEPR,4,#182169
+3174,gene,gene,MC3R,4,#182169
+3175,gene,gene,MC4R,4,#182169
+3176,gene,gene,NTRK2,4,#182169
+3177,gene,gene,PCSK1,4,#182169
+3179,gene,gene,POMC,4,#182169
+3180,gene,gene,PPARG,4,#182169
+3181,gene,gene,SIM1,4,#182169
+3182,gene,gene,UCP1,4,#182169
+3183,gene,gene,UCP2,4,#182169
+3184,gene,gene,UCP3,4,#182169
+3185,gene,gene,NR0B2,4,#182169
+3186,gene,gene,CART,4,#182169
+3187,gene,gene,SLC6A14,4,#182169
+3188,gene,gene,GHRL,4,#182169
+3189,gene,gene,BDNF,4,#182169
+3191,gene,gene,SLC6A4,4,#182169
+3192,gene,gene,ATP7A,4,#182169
+3203,gene,gene,PAX9,4,#182169
+3204,gene,gene,AXIN2,4,#182169
+3210,gene,gene,OPA1,4,#182169
+3211,gene,gene,OPA3,4,#182169
+3220,gene,gene,ENPP1,4,#182169
+3222,gene,gene,FRZB,4,#182169
+3224,gene,gene,ASPN,4,#182169
+3229,gene,gene,CLCN7,4,#182169
+3231,gene,gene,TCIRG1,4,#182169
+3232,gene,gene,OSTM1,4,#182169
+3234,gene,gene,CALCA,4,#182169
+3235,gene,gene,CALCR,4,#182169
+3236,gene,gene,COL1A1,4,#182169
+3237,gene,gene,COL1A2,4,#182169
+3246,gene,gene,CDH1,4,#182169
+3248,gene,gene,ERBB2,4,#182169
+3249,gene,gene,MSH6,4,#182169
+3250,gene,gene,MSH2,4,#182169
+3251,gene,gene,PIK3CA,4,#182169
+3252,gene,gene,RRAS2,4,#182169
+3266,gene,gene,ACVR1B,4,#182169
+3268,gene,gene,CDKN2A,4,#182169
+3271,gene,gene,RBBP8,4,#182169
+3274,gene,gene,ARMET,4,#182169
+3278,gene,gene,BRCA1,4,#182169
+3281,gene,gene,SDHC,4,#182169
+3283,gene,gene,SCN4A,4,#182169
+3285,gene,gene,CDC73,4,#182169
+3286,gene,gene,MSX2,4,#182169
+3287,gene,gene,ALX4,4,#182169
+3288,gene,gene,RASA1,4,#182169
+3289,gene,gene,DBH,4,#182169
+3290,gene,gene,NDUFV2,4,#182169
+3291,gene,gene,NR4A2,4,#182169
+3292,gene,gene,PARK2,4,#182169
+3293,gene,gene,SNCA,4,#182169
+3295,gene,gene,UCHL1,4,#182169
+3296,gene,gene,SNCAIP,4,#182169
+3297,gene,gene,PARK7,4,#182169
+3298,gene,gene,PINK1,4,#182169
+3299,gene,gene,LRRK2,4,#182169
+3306,gene,gene,SLC26A4,4,#182169
+3315,gene,gene,CYP1B1,4,#182169
+3317,gene,gene,STK11,4,#182169
+3318,gene,gene,FGFR1,4,#182169
+3324,gene,gene,SDHB,4,#182169
+3325,gene,gene,SDHD,4,#182169
+3331,gene,gene,PSEN1,4,#182169
+3332,gene,gene,KIT,4,#182169
+3335,gene,gene,CTNNB1,4,#182169
+3338,gene,gene,THRA,4,#182169
+3343,gene,gene,CD36,4,#182169
+3344,gene,gene,PLA2G7,4,#182169
+3345,gene,gene,P2RY12,4,#182169
+3356,gene,gene,BMPR1A,4,#182169
+3357,gene,gene,SMAD4,4,#182169
+3371,gene,gene,EPHX1,4,#182169
+3372,gene,gene,STOX1,4,#182169
+3377,gene,gene,PRNP,4,#182169
+3388,gene,gene,ATBF1,4,#182169
+3390,gene,gene,KLF6,4,#182169
+3391,gene,gene,EPHB2,4,#182169
+3392,gene,gene,MSR1,4,#182169
+3393,gene,gene,MXI1,4,#182169
+3395,gene,gene,RNASEL,4,#182169
+3396,gene,gene,MAD1L1,4,#182169
+3397,gene,gene,CHEK2,4,#182169
+3398,gene,gene,ELAC2,4,#182169
+3402,gene,gene,ARX,4,#182169
+3403,gene,gene,COMP,4,#182169
+3406,gene,gene,NR3C2,4,#182169
+3407,gene,gene,SCNN1A,4,#182169
+3408,gene,gene,SCNN1B,4,#182169
+3409,gene,gene,SCNN1G,4,#182169
+3410,gene,gene,WNK1,4,#182169
+3411,gene,gene,WNK4,4,#182169
+3426,gene,gene,PC,4,#182169
+3427,gene,gene,PDHA1,4,#182169
+3428,gene,gene,PDHB,4,#182169
+3429,gene,gene,INSR,4,#182169
+3440,gene,gene,MET,4,#182169
+3441,gene,gene,OGG1,4,#182169
+3442,gene,gene,PRCC,4,#182169
+3443,gene,gene,TFE3,4,#182169
+3445,gene,gene,RNF139,4,#182169
+3446,gene,gene,FLCN,4,#182169
+3452,gene,gene,PROM1,4,#182169
+3453,gene,gene,LRAT,4,#182169
+3454,gene,gene,C1QTNF5,4,#182169
+3456,gene,gene,CA4,4,#182169
+3457,gene,gene,CNGB1,4,#182169
+3458,gene,gene,CNGA1,4,#182169
+3459,gene,gene,CRX,4,#182169
+3460,gene,gene,IMPDH1,4,#182169
+3461,gene,gene,NRL,4,#182169
+3462,gene,gene,PDE6A,4,#182169
+3463,gene,gene,PDE6B,4,#182169
+3465,gene,gene,RGR,4,#182169
+3466,gene,gene,RHO,4,#182169
+3467,gene,gene,RLBP1,4,#182169
+3468,gene,gene,ROM1,4,#182169
+3469,gene,gene,RP9,4,#182169
+3470,gene,gene,RP1,4,#182169
+3471,gene,gene,RP2,4,#182169
+3472,gene,gene,RPGR,4,#182169
+3473,gene,gene,RPE65,4,#182169
+3474,gene,gene,TULP1,4,#182169
+3476,gene,gene,PRPF3,4,#182169
+3477,gene,gene,NR2E3,4,#182169
+3478,gene,gene,MERTK,4,#182169
+3479,gene,gene,PRPF8,4,#182169
+3480,gene,gene,CRB1,4,#182169
+3481,gene,gene,AIPL1,4,#182169
+3482,gene,gene,FSCN2,4,#182169
+3483,gene,gene,PRPF31,4,#182169
+3484,gene,gene,CERKL,4,#182169
+3485,gene,gene,RB1,4,#182169
+3488,gene,gene,MECP2,4,#182169
+3489,gene,gene,CDKL5,4,#182169
+3491,gene,gene,FOXO1A,4,#182169
+3492,gene,gene,SLC22A18,4,#182169
+3494,gene,gene,PAX7,4,#182169
+3495,gene,gene,RUNX1,4,#182169
+3496,gene,gene,IL10,4,#182169
+3498,gene,gene,MIF,4,#182169
+3499,gene,gene,NFKBIL1,4,#182169
+3500,gene,gene,SLC22A4,4,#182169
+3501,gene,gene,PADI4,4,#182169
+3505,gene,gene,RHAG,4,#182169
+3506,gene,gene,RHCE,4,#182169
+3507,gene,gene,RHD,4,#182169
+3511,gene,gene,FOXC1,4,#182169
+3513,gene,gene,PITX2,4,#182169
+3514,gene,gene,CAV3,4,#182169
+3519,gene,gene,MPZ,4,#182169
+3520,gene,gene,PMP22,4,#182169
+3521,gene,gene,CREBBP,4,#182169
+3522,gene,gene,EP300,4,#182169
+3523,gene,gene,FGFR2,4,#182169
+3524,gene,gene,TWIST1,4,#182169
+3539,gene,gene,APP,4,#182169
+3540,gene,gene,COMT,4,#182169
+3542,gene,gene,PRODH,4,#182169
+3543,gene,gene,SYN2,4,#182169
+3544,gene,gene,ENTH,4,#182169
+3545,gene,gene,DISC1,4,#182169
+3546,gene,gene,RTN4R,4,#182169
+3547,gene,gene,TAAR6,4,#182169
+3548,gene,gene,NF2,4,#182169
+3553,gene,gene,APOE,4,#182169
+3554,gene,gene,HTR2A,4,#182169
+3555,gene,gene,MYH9,4,#182169
+3560,gene,gene,TGM1,4,#182169
+3567,gene,gene,TNF,4,#182169
+3568,gene,gene,CASP12P1,4,#182169
+3571,gene,gene,ADA,4,#182169
+3572,gene,gene,CD3D,4,#182169
+3574,gene,gene,IL7R,4,#182169
+3576,gene,gene,RAG1,4,#182169
+3577,gene,gene,RAG2,4,#182169
+3578,gene,gene,DCLRE1C,4,#182169
+3580,gene,gene,BCL10,4,#182169
+3581,gene,gene,EDN3,4,#182169
+3599,gene,gene,DSP,4,#182169
+3608,gene,gene,SHH,4,#182169
+3609,gene,gene,GNAS,4,#182169
+3612,gene,gene,HSPD1,4,#182169
+3613,gene,gene,KIF5A,4,#182169
+3614,gene,gene,PLP1,4,#182169
+3615,gene,gene,SPAST,4,#182169
+3616,gene,gene,SPG7,4,#182169
+3617,gene,gene,SACS,4,#182169
+3618,gene,gene,SPG3A,4,#182169
+3619,gene,gene,ALS2,4,#182169
+3620,gene,gene,NIPA1,4,#182169
+3623,gene,gene,ANK1,4,#182169
+3624,gene,gene,EPB42,4,#182169
+3626,gene,gene,SPTA1,4,#182169
+3627,gene,gene,SPTB,4,#182169
+3631,gene,gene,AR,4,#182169
+3632,gene,gene,GARS,4,#182169
+3633,gene,gene,HEXB,4,#182169
+3634,gene,gene,IGHMBP2,4,#182169
+3635,gene,gene,SMN1,4,#182169
+3636,gene,gene,VAPB,4,#182169
+3637,gene,gene,BSCL2,4,#182169
+3638,gene,gene,CACNA1A,4,#182169
+3639,gene,gene,FGF14,4,#182169
+3640,gene,gene,PPP2R2B,4,#182169
+3641,gene,gene,PRKCG,4,#182169
+3642,gene,gene,ATXN1,4,#182169
+3643,gene,gene,ATXN2,4,#182169
+3644,gene,gene,ATXN7,4,#182169
+3645,gene,gene,KLHL1AS,4,#182169
+3646,gene,gene,TBP,4,#182169
+3647,gene,gene,ATXN10,4,#182169
+3648,gene,gene,PLEKHG4,4,#182169
+3649,gene,gene,TDP1,4,#182169
+3650,gene,gene,SCA25,4,#182169
+3653,gene,gene,FLNB,4,#182169
+3656,gene,gene,AGC1,4,#182169
+3657,gene,gene,MATN3,4,#182169
+3658,gene,gene,TRAPPC2,4,#182169
+3659,gene,gene,WISP3,4,#182169
+3660,gene,gene,CHST3,4,#182169
+3662,gene,gene,FAS,4,#182169
+3663,gene,gene,ING1,4,#182169
+3664,gene,gene,TNFRSF10B,4,#182169
+3675,gene,gene,COL11A1,4,#182169
+3677,gene,gene,KRAS,4,#182169
+3678,gene,gene,ALOX5AP,4,#182169
+3679,gene,gene,PDE4D,4,#182169
+3681,gene,gene,DCX,4,#182169
+3682,gene,gene,PAFAH1B1,4,#182169
+3699,gene,gene,FASLG,4,#182169
+3700,gene,gene,DNASE1,4,#182169
+3701,gene,gene,PDCD1,4,#182169
+3702,gene,gene,PTPN22,4,#182169
+3704,gene,gene,ABCA1,4,#182169
+3706,gene,gene,MAPT,4,#182169
+3708,gene,gene,ATM,4,#182169
+3709,gene,gene,BAX,4,#182169
+3712,gene,gene,JAG1,4,#182169
+3713,gene,gene,NKX2-5,4,#182169
+3714,gene,gene,ZFPM2,4,#182169
+3720,gene,gene,FGFR3,4,#182169
+3722,gene,gene,JAK2,4,#182169
+3723,gene,gene,THPO,4,#182169
+3725,gene,gene,MPL,4,#182169
+3727,gene,gene,MASTL,4,#182169
+3728,gene,gene,CBS,4,#182169
+3729,gene,gene,F5,4,#182169
+3730,gene,gene,FGB,4,#182169
+3731,gene,gene,FGG,4,#182169
+3732,gene,gene,SERPIND1,4,#182169
+3733,gene,gene,HRG,4,#182169
+3734,gene,gene,PROC,4,#182169
+3735,gene,gene,THBD,4,#182169
+3736,gene,gene,ADAMTS13,4,#182169
+3738,gene,gene,HRAS,4,#182169
+3739,gene,gene,PCM1,4,#182169
+3743,gene,gene,TSHR,4,#182169
+3744,gene,gene,NCOA4,4,#182169
+3745,gene,gene,TRIM24,4,#182169
+3746,gene,gene,MINPP1,4,#182169
+3747,gene,gene,GOLGA5,4,#182169
+3748,gene,gene,TRIM33,4,#182169
+3749,gene,gene,CACNA1S,4,#182169
+3759,gene,gene,COL7A1,4,#182169
+3772,gene,gene,MYH8,4,#182169
+3780,gene,gene,APC,4,#182169
+3781,gene,gene,MLH1,4,#182169
+3782,gene,gene,PMS2,4,#182169
+3792,gene,gene,KRT1,4,#182169
+3793,gene,gene,APRT,4,#182169
+3794,gene,gene,SLC34A1,4,#182169
+3795,gene,gene,MYO7A,4,#182169
+3796,gene,gene,USH2A,4,#182169
+3797,gene,gene,USH3A,4,#182169
+3798,gene,gene,USH1C,4,#182169
+3799,gene,gene,CDH23,4,#182169
+3800,gene,gene,PCDH15,4,#182169
+3801,gene,gene,MASS1,4,#182169
+3802,gene,gene,USH1G,4,#182169
+3803,gene,gene,HMGA2,4,#182169
+3805,gene,gene,LRP5,4,#182169
+3806,gene,gene,PTEN,4,#182169
+3810,gene,gene,CASQ2,4,#182169
+3811,gene,gene,GNAI2,4,#182169
+3812,gene,gene,RYR2,4,#182169
+3813,gene,gene,HOXD10,4,#182169
+3814,gene,gene,FCGR3A,4,#182169
+3815,gene,gene,OAS1,4,#182169
+3821,gene,gene,GJB2,4,#182169
+3822,gene,gene,LOR,4,#182169
+3823,gene,gene,CCND1,4,#182169
+3824,gene,gene,VHL,4,#182169
+3825,gene,gene,EDNRB,4,#182169
+3827,gene,gene,MITF,4,#182169
+3828,gene,gene,PAX3,4,#182169
+3829,gene,gene,SNAI2,4,#182169
+3830,gene,gene,TYR,4,#182169
+3831,gene,gene,COL2A1,4,#182169
+3833,gene,gene,FCMD,4,#182169
+3834,gene,gene,POMT1,4,#182169
+3835,gene,gene,RAB3GAP1,4,#182169
+3839,gene,gene,NF1,4,#182169
+3841,gene,gene,TAP2,4,#182169
+3842,gene,gene,FBN1,4,#182169
+3843,gene,gene,ADAMTS10,4,#182169
+3844,gene,gene,COL11A2,4,#182169
+3851,gene,gene,ELN,4,#182169
+3852,gene,gene,BRCA2,4,#182169
+3853,gene,gene,GPC3,4,#182169
+3854,gene,gene,WT1,4,#182169
+3855,gene,gene,POU6F2,4,#182169
+3857,gene,gene,WAS,4,#182169
+3858,gene,gene,MSX1,4,#182169
+3860,gene,gene,PRKAG2,4,#182169
+3875,gene,gene,SOX10,4,#182169
+3887,gene,gene,PVRL1,4,#182169
+3892,gene,gene,COL3A1,4,#182169
+3893,gene,gene,TG,4,#182169
+3894,gene,gene,PTCH,4,#182169
+3895,gene,gene,MEN1,4,#182169
+3896,gene,gene,MYH7,4,#182169
+3897,gene,gene,RYR1,4,#182169
+3904,gene,gene,NOS3,4,#182169
+3905,gene,gene,SLC6A8,4,#182169
+3913,gene,gene,GJA1,4,#182169
+3915,gene,gene,ABCA4,4,#182169
+3916,gene,gene,CHST6,4,#182169
+3917,gene,gene,RDS,4,#182169
+3918,gene,gene,ELOVL4,4,#182169
+3919,gene,gene,VMD2,4,#182169
+3920,gene,gene,NTRK1,4,#182169
+3921,gene,gene,RET,4,#182169
+3928,gene,gene,IPF1,4,#182169
+3930,gene,gene,KCNJ11,4,#182169
+3931,gene,gene,PRKAR1A,4,#182169
+3939,gene,gene,THRB,4,#182169
+3941,gene,gene,TPO,4,#182169
+3943,gene,gene,SCN5A,4,#182169
+3951,gene,gene,C6,4,#182169
+3952,gene,gene,IL2RG,4,#182169
+3957,gene,gene,TP53,4,#182169
+3958,gene,gene,PAX6,4,#182169
+3964,gene,gene,STS,4,#182169
+3972,gene,gene,ATP6V1B1,4,#182169
+3973,gene,gene,CA2,4,#182169
+3974,gene,gene,SLC4A1,4,#182169
+3975,gene,gene,SLC4A4,4,#182169
+3976,gene,gene,ATP6V0A4,4,#182169
+3980,gene,gene,CIITA,4,#182169
+3981,gene,gene,PTPRC,4,#182169
+3983,gene,gene,AGT,4,#182169
+3984,gene,gene,AGTR1,4,#182169
+3985,gene,gene,ACE,4,#182169
+3986,gene,gene,REN,4,#182169
