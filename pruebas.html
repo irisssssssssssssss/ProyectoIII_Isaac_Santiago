@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Grafico Escuelas</title>
+    <style>
+        .node {
+            fill: #ffdf2a;
+            stroke: #000000;
+            stroke-width: 1px;
+            cursor: pointer; /* Add cursor pointer for clickable nodes */
+        }
+
+        .link {
+            stroke: #000000;
+            stroke-width: 0.1px;
+        }
+
+        .label {
+            display: none; /* Initially hide labels */
+            font-size: 12px;
+            fill: black;
+            pointer-events: none; /* Prevent labels from intercepting mouse events */
+        }
+    </style>
+</head>
+<body>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script>
+        var width = 1920;
+        var height = 1080;
+
+        // Load data from diseases.csv
+        d3.csv("school.csv").then(function(data) {
+            // Group nodes by type2
+            var nodesByType2 = d3.group(data, d => d.type2);
+
+            // Create links based on shared type2 category
+            var links = [];
+            nodesByType2.forEach(function(nodes) {
+                for (var i = 0; i < nodes.length - 1; i++) {
+                    for (var j = i + 1; j < nodes.length; j++) {
+                        links.push({ source: nodes[i].key, target: nodes[j].key });
+                    }
+                }
+            });
+
+            var nodes = {};
+
+            links.forEach(function(link) {
+                link.source = nodes[link.source] ||
+                    (nodes[link.source] = { name: link.source });
+                link.target = nodes[link.target] ||
+                    (nodes[link.target] = { name: link.target });
+            });
+
+            // Create SVG container with zoom capability
+            var svgContainer = d3.select('body').append('div')
+                .style('overflow', 'hidden')
+                .append('svg')
+                .attr('width', width)
+                .attr('height', height)
+                .call(d3.zoom().on('zoom', function(event) {
+                    svg.attr('transform', event.transform);
+                }))
+                .append('g');
+
+            var svg = svgContainer.append('g');
+
+            var force = d3.forceSimulation()
+                .force("link", d3.forceLink().id(function(d) { return d.name; }))
+                .force("charge", d3.forceManyBody().strength(0)) // Increase charge strength for greater separation
+                .force("center", d3.forceCenter(width / 2, height / 2))
+                .nodes(Object.values(nodes))
+                .on("tick", tick);
+
+            var link = svg.selectAll(".link")
+                .data(links)
+                .enter().append('line')
+                .attr('class', "link");
+
+            var node = svg.selectAll('.node')
+                .data(force.nodes())
+                .enter().append('circle')
+                .attr('class', 'node')
+                .attr('r', 3)
+                .on('click', toggleLabel); // Toggle label visibility on click
+
+            var label = svg.selectAll('.label')
+                .data(force.nodes())
+                .enter().append('text')
+                .attr('class', 'label')
+                .attr('text-anchor', 'middle')
+                .attr('dy', '0.35em') // Offset label position
+                .text(function(d) { return d.label; });
+
+            function tick() {
+                node
+                    .attr("cx", function(d) { return d.x; })
+                    .attr("cy", function(d) { return d.y; });
+
+                link
+                    .attr("x1", function(d) { return d.source.x; })
+                    .attr("y1", function(d) { return d.source.y; })
+                    .attr("x2", function(d) { return d.target.x; })
+                    .attr("y2", function(d) { return d.target.y; });
+
+                label
+                    .attr("x", function(d) { return d.x; })
+                    .attr("y", function(d) { return d.y; });
+            }
+
+            function toggleLabel(event, d) {
+                var selectedNode = d3.select(this);
+                var info = "Label: " + d.label + "\nCategoria: " + d.type2;
+                alert(info);
+            }
+        });
+    </script>
+</body>
+</html>
